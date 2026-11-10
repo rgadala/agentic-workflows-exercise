@@ -40,7 +40,7 @@ Keep Mona's website useful to developers learning GitHub.
 1. Use GitHub repository API tools, not terminal or CLI commands, to read
    `notes/mona-notes.md` and the current `site/content/github-info.md` in this
    repository. Follow Mona's editorial guidance.
-2. Use web-fetch to fetch all required sources:
+2. Use the web_fetch tool to fetch all required sources (call web_fetch directly; if it is not listed, search your tools for web_fetch):
    - https://github.blog/latest/
    - https://github.blog/changelog/
    - Awesome Copilot workflows: https://awesome-copilot.github.com/workflows/
